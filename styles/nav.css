@@ -17,7 +17,7 @@ nav ul li a {
     color: black;
 }
 
-/* Nested Menu */
+/* Nested Nav Menu */
 nav li .dropdown {
     display: none;
     position: absolute;
